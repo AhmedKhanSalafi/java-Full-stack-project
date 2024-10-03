@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+
+
+#food-items-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: blue;
+
+}
+
+.food-item {
+    border: 1px solid #ccc;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+    color: red;
+}
+
+.food-item h3 {
+    margin: 0;
+
+
+}
+
+
